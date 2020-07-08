@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.collection-header{
+    margin-left: 15px;
+}
+
+#chartContainer{
+    margin-top: 10px;
+}
+h6{
+    margin-bottom: 15px;
+}
+.metadine{
+    width: 80px;
+}
